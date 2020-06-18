@@ -3614,6 +3614,7 @@ h6 {
 .feedback_text {
     padding-left: 95px;
     padding-right: 55px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .feedback_text h3 {
@@ -3736,6 +3737,7 @@ h6 {
 
 .f_title {
     margin-bottom: 35px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .f_title h3 {
